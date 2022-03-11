@@ -1,1 +1,1 @@
-# C programme
+C is fun
